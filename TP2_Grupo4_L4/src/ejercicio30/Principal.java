@@ -3,7 +3,7 @@ package ejercicio30;
 import java.util.ArrayList;
 import java.util.ListIterator;
 
-public class Main3 {
+public class Principal {
 
 	public static void main(String[] args) {
 
